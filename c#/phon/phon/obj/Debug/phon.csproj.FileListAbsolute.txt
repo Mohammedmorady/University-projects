@@ -1,0 +1,15 @@
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\bin\Debug\phon.exe.config
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\bin\Debug\phon.exe
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\bin\Debug\phon.pdb
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.csproj.AssemblyReference.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.Form1.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.Properties.Resources.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.csproj.GenerateResource.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.csproj.CoreCompileInputs.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.exe
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.pdb
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.sabt.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.delete.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.showdata.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.Signin.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\phon\phon\obj\Debug\phon.Signup.resources
