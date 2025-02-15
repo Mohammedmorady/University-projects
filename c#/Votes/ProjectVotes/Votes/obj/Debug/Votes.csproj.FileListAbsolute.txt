@@ -1,0 +1,12 @@
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\bin\Debug\Votes.exe.config
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\bin\Debug\Votes.exe
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\bin\Debug\Votes.pdb
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.csproj.AssemblyReference.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.Form1.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.Properties.Resources.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.csproj.GenerateResource.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.csproj.CoreCompileInputs.cache
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.exe
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.pdb
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.SignUp.resources
+C:\Users\mhmda\OneDrive\Desktop\تمرین c#\Votes\Votes\Votes\obj\Debug\Votes.VotingForm.resources
